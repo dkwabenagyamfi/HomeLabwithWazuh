@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Wazuh Home Lab</h1>
 
 
 <h2>Description</h2>
